@@ -6,7 +6,7 @@ The purpose of this project is to develop a machine learning model capable of cl
 For the initial version, the project focuses on three genres:
 -Sports
 -News
--Cartoon
+-Animals
 
 
 **Project Overview**

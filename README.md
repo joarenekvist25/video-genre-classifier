@@ -5,7 +5,7 @@
 The purpose of this project is to develop a machine learning model capable of classifying the genre of short video clips.
 For the initial version, the project focuses on three genres:
 -Sports
--News
+-Cartoons
 -Animals
 
 
